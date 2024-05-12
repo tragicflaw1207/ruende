@@ -1,0 +1,4 @@
+name: prt
+version: '${version}'
+main: me.ruende.prt.Prt
+api-version: '1.20'
